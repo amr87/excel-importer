@@ -24,6 +24,7 @@ MYSQL & PHP & Laravel 5.7
 ```bash
 1- go to: http://localhost:8000
 2- login with User: admin@mideastsoft.com & Password: secret
+3- php artisan queue:work
 ```
 
 ## Testing
